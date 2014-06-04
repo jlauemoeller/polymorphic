@@ -11,6 +11,8 @@ then
 
 `ember serve`
 
+and try clicking the buttons with the console open.
+
 
 Details
 =======
